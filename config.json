@@ -1,0 +1,11 @@
+{
+  "data_dir": "path/to/your/data",
+  "input_file": "input_filename.ext",
+  "output_dir": "path/to/output",
+  "ruby_bin": "ruby",
+  "params": {
+    "threshold": 0.5,
+    "max_iter": 100,
+    "seed": 42
+  }
+}
